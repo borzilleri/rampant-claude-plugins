@@ -6,7 +6,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "~/.claude/hooks/warn-protected-branch.sh"
+            "command": "\"${CLAUDE_PLUGIN_ROOT}\"/hooks/warn-protected-branch.sh"
           }
         ]
       }
