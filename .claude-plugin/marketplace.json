@@ -1,0 +1,24 @@
+{
+  "name": "rampant-io-plugins",
+  "owner": {
+    "name": "Jonathan Borzilleri",
+    "email": "jonathan@borzilleri.net"
+  },
+  "plugins": [
+    {
+      "name": "bug-hunt",
+      "source": "./claude-plugins/bug-hunt",
+      "description": "A plugin that helps you find and fix bugs in your code."
+    },
+    {
+      "name": "command-protection",
+      "source": "./claude-plugins/command-protection",
+      "description": "A plugin that guards against Claude running dangerous or destructive commands."
+    },
+    {
+      "name":  "software-dev",
+      "source": "./claude-plugins/software-dev",
+      "description": "A plugin that provides tools to aid in software development."
+    }
+  ]
+}

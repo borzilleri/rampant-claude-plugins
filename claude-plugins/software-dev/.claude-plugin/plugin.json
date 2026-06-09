@@ -1,0 +1,12 @@
+{
+  "name": "software-dev",
+  "displayName": "Software Development Tools",
+  "version": "0.1.0",
+  "description": "A plugin containing tools that assist with software development tasks.",
+  "author": {
+    "name": "Jonathan Borzilleri",
+    "email": "jonathan@borzilleri.net",
+    "url": "https://github.com/borzilleri"
+  },
+  "license": "MIT"
+}

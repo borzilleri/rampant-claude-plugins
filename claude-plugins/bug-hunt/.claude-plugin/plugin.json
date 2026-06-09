@@ -1,0 +1,12 @@
+{
+  "name": "bug-hunt",
+  "displayName": "Bug Hunt",
+  "version": "0.1.0",
+  "description": "A plugin to help find and report bugs.",
+  "author": {
+    "name": "Jonathan Borzilleri",
+    "email": "jonathan@borzilleri.net",
+    "url": "https://github.com/borzilleri"
+  },
+  "license": "MIT"
+}

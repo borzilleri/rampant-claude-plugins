@@ -1,0 +1,12 @@
+{
+  "name": "command-protection",
+  "displayName": "Command Protection",
+  "version": "0.1.0",
+  "description": "A plugin containing hooks that reject destructive commands.",
+  "author": {
+    "name": "Jonathan Borzilleri",
+    "email": "jonathan@borzilleri.net",
+    "url": "https://github.com/borzilleri"
+  },
+  "license": "MIT"
+}
