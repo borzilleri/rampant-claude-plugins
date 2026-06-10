@@ -19,6 +19,11 @@
       "name":  "software-dev",
       "source": "./claude-plugins/software-dev",
       "description": "A plugin that provides tools to aid in software development."
+    },
+    {
+      "name": "cli-tool-use",
+      "source": "./claude-plugins/cli-tool-use",
+      "description": "Contains skills providing expertise in various command-line tools."
     }
   ]
 }

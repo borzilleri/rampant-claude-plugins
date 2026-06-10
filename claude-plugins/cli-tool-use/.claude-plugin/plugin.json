@@ -1,0 +1,12 @@
+{
+  "name": "cli-tool-use",
+  "displayName": "CLI Tool Use",
+  "version": "0.1.0",
+  "description": "Contains skills providing expertise in various command-line tools.",
+  "author": {
+    "name": "Jonathan Borzilleri",
+    "email": "jonathan@borzilleri.net",
+    "url": "https://github.com/borzilleri"
+  },
+  "license": "MIT"
+}
